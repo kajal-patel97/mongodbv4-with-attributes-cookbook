@@ -18,3 +18,4 @@ chef_version '>= 14.0'
 # a Supermarket.
 #
 # source_url 'https://github.com/<insert_org_here>/mongodbv4_with_attributes_cookbook'
+depends 'apt'
